@@ -26,10 +26,3 @@ Currently, I’m exploring the worlds of **Machine Learning**, **Cloud Computing
 ### 📫 How to Reach Me:
 - **Email**: [krisztian.kovacssotet@gmail.com](mailto:krisztian.kovacssotet@gmail.com)
 - **LinkedIn**: [Krisztian Kovacs Sotet](www.linkedin.com/in/krisztian-kovacs-sotet-217853202)
-
----
-
-### 🌍 Let’s Connect!
-I’m always open to discussing new ideas, projects, or opportunities. Feel free to reach out if you want to collaborate, share insights, or just chat about tech. 🚀
-- **GitHub**: [Krisztian Kovacs Sotet](https://github.com/DSmithin)
-- **LinkedIn**: [Krisztian Kovacs Sotet](https://www.linkedin.com/in/your-profile)
