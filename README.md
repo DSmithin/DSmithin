@@ -11,12 +11,12 @@ Currently, I’m exploring the worlds of **Machine Learning**, **Cloud Computing
 
 ---
 
-###🚀 Technologies & Tools I Work With:
+### 🚀 Technologies & Tools I Work With:
 - **Languages**: Python, Java, C++, C#, SQL, Assembly
 - **Tools/Frameworks**: React, Node.js, Docker, Git
 - **Specialties**: Software Engineering, Cloud Development, Distributed Systems, Problem Solving
 
-###📚 What I’m Currently Learning:
+### 📚 What I’m Currently Learning:
 - Advanced **Machine Learning** techniques
 - Building scalable **cloud-based applications**
 - Deepening my knowledge of **data structures & algorithms**
